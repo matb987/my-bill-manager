@@ -13,3 +13,17 @@ My bill manager is a open source project to help people manage there bills and s
 - multipul users can access the same household bills
 - view how much you have after your bills are paid
 
+
+# Security Policy
+
+## Supported Versions
+
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.x     | :white_check_mark: |
+| < 1.0   | :x:                |
+
+## Reporting a Vulnerability
+IF you find any security Issues please report them by email admin@mbdev.org or by raising a issue here
+
